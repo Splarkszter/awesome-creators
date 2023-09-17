@@ -1,2 +1,121 @@
 # Awesome-Content-creators
 A list of Content Creators mainly focused on Education. Most of these being independent and of high quality.
+
+## Independent Educational Skill Developing:
+- [Cody's Lab](https://www.youtube.com/@theCodyReeder)
+- [AlphaPhoenix](https://www.youtube.com/@AlphaPhoenixChannel)
+- [NightHawkInLight](https://www.youtube.com/@Nighthawkinlight)
+- [The Thought Emporium](https://www.youtube.com/@thethoughtemporium)
+- [Tech Ingredients](https://www.youtube.com/@TechIngredients)
+- [Lock Picking Lawyer](https://www.youtube.com/@lockpickinglawyer)
+- [PrimitiveTechnology](https://www.youtube.com/@primitivetechnology9550)
+
+## Educational Explainer:
+- [ScottManley](https://www.youtube.com/@scottmanley)
+- [The Science Asylum](https://www.youtube.com/@ScienceAsylum)
+- [SmarterEveryDay](https://www.youtube.com/@smartereveryday)
+- [BeSmart](https://www.youtube.com/@besmart)
+- [PhysicsGirl](https://www.youtube.com/@physicsgirl)
+- [Veritasium](https://www.youtube.com/@veritasium) (Warning: AVOID topics that are about social problems becuase of high potential of being biased)
+- [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel)
+- [Real Science](https://www.youtube.com/@realscience)
+- [Real Engineering](https://www.youtube.com/@RealEngineering)
+- [Captain Disillusion](https://www.youtube.com/@CaptainDisillusion)
+- [EveryDayAstronaut](https://www.youtube.com/@EverydayAstronaut)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+
+## Educational Entertainment:
+- [Louis Rossman](https://www.youtube.com/@rossmanngroup)
+- [ElectroBOOM]()
+- [Technology Connections]()
+- [Mental Outlaw]()
+- [LGR]()
+- [Techmoan]()
+- [CGP Grey]()
+- [Stuff Made Here]()
+- [Mark Rober]()
+- [Posy]() (Completely Unique Visual and Audio design, unique deep dives)
+- [Styropyro]() (How this guy is still alive?)
+- [Mars Guy]()
+- [BlueJay]() (Not For Kids)
+- [Salmonella]() (Not For Kids)
+- [TomScott]()
+
+
+## Independent Journalism:
+- [g0at]()
+- [Johnny Harris]() (Warning: Potentially Sensationalist or Biased)
+
+## 3D Printing:
+- [Tom Stanton]()
+- [SunShine](): Self-Reproductive 3D printer
+- [Makers Muse]()
+- [CNC Kitchen]()
+- [Maker Tales]()
+- [JRT3D]()
+- [Zack Freedman]()
+- [3DprintedLife]()
+- [James Bruton]()
+- [K R A L Y N 3D]()
+  
+## DIY Education:
+- [Hugg Jeffreys]()
+- [DIY Perks]()
+- [Primitive Technology]()
+- [Everyday Home Repairs]()
+- [How To Make Everything]()
+
+## DIY Entertainment:
+- [Plasma Channel]()
+- [RC Test Flight]() [Fast-Snowcat](https://www.youtube.com/watch?v=W5nBqzW9lXY)
+- [Excessive Overkill]()
+- [Xyla Foxlin](https://www.youtube.com/@xylafoxlin)
+
+
+## Materials Science/Machining:
+- [Breaking Taps]()
+- [Inheritance Machining]()
+
+## ComputerTech:
+- [Level1Tech]()
+- [Gamers Nexus]()
+- [Hardware Unboxed]()
+- [Geekerwan]()
+
+## Electronics:
+- [BigCliveDotCom)]()
+- [EEVlog()
+
+## Coding:
+- [Greg Johnston]()
+- 
+## Game Dev:
+- [@johnlin9665](): Really Cool Voxel Engine
+- [Visionary 3D]() (Barebones, multi-field)
+- [Game Makers Toolit]() (Past videos concentrate on Unity)
+- [@3dvisionary: Ray-Marching Engine
+
+## Linux:
+- [DorianDotSlash]()
+
+## History:
+- [Lindybeige]()
+- [Townsends]()
+- [Moden History TV]() (Not actually a TV channel, it's an independent creator)
+
+## Entertainment Generic:
+- [Lato's Law]()
+
+## Uncategorized:
+-  [Grim Granite]()
+-  [Dave's Garage]()
+
+
+
+Warning:
+- Kurzgesagt(Directly funded by BillGates association, high potential of biased content towards a certain mindset, channel has been accused of not disclosing this funding in the past before recieving critizism about it)
+
+AVOID:
+- [Avoid any "React" channel]
+- [Avoid any channel where more than 30% of the thumbnails have a face with a - mouth open(or the so called "pog" expression)]
+- [AVOID topics like social problems, high potential of being biased]
