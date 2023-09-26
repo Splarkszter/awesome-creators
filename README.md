@@ -2,13 +2,14 @@
 A list of Content Creators mainly focused on Education. Most of these being independent and of high quality.
 
 ## Independent Educational Skill Developing:
-- [Cody's Lab](https://www.youtube.com/@theCodyReeder)
-- [AlphaPhoenix](https://www.youtube.com/@AlphaPhoenixChannel)
-- [NightHawkInLight](https://www.youtube.com/@Nighthawkinlight)
-- [The Thought Emporium](https://www.youtube.com/@thethoughtemporium)
-- [Tech Ingredients](https://www.youtube.com/@TechIngredients)
-- [Lock Picking Lawyer](https://www.youtube.com/@lockpickinglawyer)
-- [PrimitiveTechnology](https://www.youtube.com/@primitivetechnology9550)
+- Cody's Lab: [YouTube](https://www.youtube.com/@theCodyReeder)
+- AlphaPhoenix: [YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
+- NightHawkInLight: [YouTube](https://www.youtube.com/@Nighthawkinlight)
+- The Thought Emporium: [YouTube](https://www.youtube.com/@thethoughtemporium)
+- Tech Ingredients: [YouTube](https://www.youtube.com/@TechIngredients)
+- Lock Picking Lawyer: [YouTube](https://www.youtube.com/@lockpickinglawyer)
+- PrimitiveTechnology: [YouTube](https://www.youtube.com/@primitivetechnology9550)
+- Katerina Visnjic - Physics4Life: [Youtube](https://www.youtube.com/@Physics4Life)
 
 ## Educational Explainer:
 - [ScottManley](https://www.youtube.com/@scottmanley)
