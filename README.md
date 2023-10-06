@@ -48,6 +48,7 @@ A list of Content Creators mainly focused on Education. Most of these being inde
 - [Johnny Harris]() (Warning: Potentially Sensationalist or Biased)
 
 ## 3D Printing:
+- Teaching Tech [YouTube](https://www.youtube.com/@TeachingTech)
 - [Tom Stanton]()
 - [SunShine](): Self-Reproductive 3D printer
 - [Makers Muse]()
