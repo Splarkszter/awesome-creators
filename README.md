@@ -73,8 +73,8 @@ A list of Content Creators mainly focused on Education. Most of these being inde
 - [Excessive Overkill]()
 - [Xyla Foxlin](https://www.youtube.com/@xylafoxlin)
 
-## DIY Skills:
-- Joshua Bardwell: High-Quality DIY FVP Drone stuff [YouTube](https://www.youtube.com/@JoshuaBardwell)
+## DIY Electronics:
+- Hyperspace Pirate: [YouTube](https://www.youtube.com/@HyperspacePirate)
 
 ## Materials Science/Machining:
 - [Breaking Taps]()
