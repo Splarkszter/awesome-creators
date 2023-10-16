@@ -7,6 +7,7 @@ A list of Content Creators mainly focused on Education. Most of these being inde
 - NightHawkInLight: [YouTube](https://www.youtube.com/@Nighthawkinlight)
 - The Thought Emporium: [YouTube](https://www.youtube.com/@thethoughtemporium)
 - Tech Ingredients: [YouTube](https://www.youtube.com/@TechIngredients)
+- ProjectsInFlight: [YouTube](https://youtube.com/@projectsinflight) (DIY Photolithography from the ground up)
 - Lock Picking Lawyer: [YouTube](https://www.youtube.com/@lockpickinglawyer)
 - PrimitiveTechnology: [YouTube](https://www.youtube.com/@primitivetechnology9550)
 
@@ -96,7 +97,7 @@ A list of Content Creators mainly focused on Education. Most of these being inde
 ## Game Dev:
 - [@johnlin9665](): Really Cool Voxel Engine
 - [Visionary 3D]() (Barebones, multi-field)
-- [Game Makers Toolit]() (Past videos concentrate on Unity)
+- [Game Makers Toolkit]() (Tutorials are/were based in Unity)
 - [@3dvisionary: Ray-Marching Engine
 
 ## Linux:
