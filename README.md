@@ -93,12 +93,13 @@ A list of Content Creators mainly focused on Education. Most of these being inde
 
 ## Coding:
 - [Greg Johnston]()
-- 
+
 ## Game Dev:
 - [@johnlin9665](): Really Cool Voxel Engine
 - [Visionary 3D]() (Barebones, multi-field)
 - [Game Makers Toolkit]() (Tutorials are/were based in Unity)
 - [@3dvisionary: Ray-Marching Engine
+- @vojtechproschl: [YouTube](https://youtube.com/@vojtechproschl)
 
 ## Linux:
 - [DorianDotSlash]()
