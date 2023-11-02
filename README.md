@@ -1,4 +1,4 @@
-# Awesome Content Creators
+# Awesome Creators
 A list of Content Creators mainly focused on Education. Most of these being independent and of high quality.
 
 ## Independent Educational Skill Developing:
