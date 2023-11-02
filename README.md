@@ -76,6 +76,7 @@ A list of Content Creators mainly focused on Education. Most of these being inde
 
 ## DIY Electronics:
 - Hyperspace Pirate: [YouTube](https://www.youtube.com/@HyperspacePirate)
+- Carl Bugeja: [YouTube](https://youtube.com/@CarlBugeja)
 
 ## Materials Science/Machining:
 - [Breaking Taps]()
