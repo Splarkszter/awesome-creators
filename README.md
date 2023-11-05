@@ -1,6 +1,9 @@
 # Awesome Creators
 A list of Content Creators mainly focused on Education. Most of these being independent and of high quality.
 
+WARNING: This is a personal list so far, this is inspired by other repositories about other things that are kind of the same format.
+Contributions are highly appreciated, english only please.
+
 ## Independent Educational Skill Developing:
 - Cody's Lab: [YouTube](https://www.youtube.com/@theCodyReeder)
 - AlphaPhoenix: [YouTube](https://www.youtube.com/@AlphaPhoenixChannel)
