@@ -1,10 +1,12 @@
 # Awesome Creators
 A list of Content Creators mainly focused on Education. Most of these being independent and of high quality.
 
-WARNING: This is a personal list so far, this is inspired by other repositories about other things that are kind of the same format.
+WARNING: This is a personal list so far, i made it so i could keep track of the people i watch and have it readily available to remember or when i want to share it to my friends, then i made this GitHUb repo. This is inspired by other repositories about other things that are kind of the same format.
 Contributions are highly appreciated, english only please.
 
 Follow your favorite creators without fear of them getting censored: [Download GrayJay!](https://grayjay.app/)
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Independent Educational Skill Developing:
 - Cody's Lab: [YouTube](https://www.youtube.com/@theCodyReeder)
@@ -12,7 +14,7 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - NightHawkInLight: [YouTube](https://www.youtube.com/@Nighthawkinlight)
 - The Thought Emporium: [YouTube](https://www.youtube.com/@thethoughtemporium)
 - Tech Ingredients: [YouTube](https://www.youtube.com/@TechIngredients)
-- ProjectsInFlight: [YouTube](https://youtube.com/@projectsinflight) (DIY Photolithography from the ground up)
+- ProjectsInFlight: [YouTube](https://youtube.com/@projectsinflight) | Notable traits: DIY Photolithography.
 - Lock Picking Lawyer: [YouTube](https://www.youtube.com/@lockpickinglawyer)
 - PrimitiveTechnology: [YouTube](https://www.youtube.com/@primitivetechnology9550)
 
@@ -24,7 +26,7 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - BeSmart: [YouTube](https://www.youtube.com/@besmart)
 - PhysicsGirl: [YouTube](https://www.youtube.com/@physicsgirl)
 - Katerina Visnjic - Physics4Life: [Youtube](https://www.youtube.com/@Physics4Life)
-- Veritasium: [YouTube](https://www.youtube.com/@veritasium) (Warning: AVOID topics that are about social problems due to potential for biased contents)
+- Veritasium: [YouTube](https://www.youtube.com/@veritasium) | Warning: AVOID topics that are about social problems due to potential for biased contents.
 - Practical Engineering: [YouTube](https://www.youtube.com/@PracticalEngineeringChannel)
 - Real Science: [YouTube](https://www.youtube.com/@realscience)
 - Real Engineering: [YouTube](https://www.youtube.com/@RealEngineering)
@@ -41,22 +43,22 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - CGP Grey: [YouTube](https://www.youtube.com/@CGPGrey)
 - Stuff Made Here: [YouTube](https://www.youtube.com/@StuffMadeHere)
 - Mark Rober: [YouTube](https://www.youtube.com/@MarkRober)
-- Posy: [YouTube](https://www.youtube.com/@PosyMusic) (Completely Unique Visual and Audio design, unique deep dives)
-- Styropyro: [YouTube](https://www.youtube.com/@styropyro) (How this guy is still alive?)
+- Posy: [YouTube](https://www.youtube.com/@PosyMusic) | Notable traits: Completely Unique Visual and Audio design, unique deep dives.
+- Styropyro: [YouTube](https://www.youtube.com/@styropyro) | Notable traits: How this guy is still alive?
 - Mars Guy: [YouTube](https://www.youtube.com/@MarsGuy)
-- BlueJay: [YouTube](https://www.youtube.com/@BlueJayYT) (Not For Kids)
-- Sam O'Nella Academy: [YouTube](https://www.youtube.com/@SamONellaAcademy) (Not For Kids)
+- BlueJay: [YouTube](https://www.youtube.com/@BlueJayYT)
+- Sam O'Nella Academy: [YouTube](https://www.youtube.com/@SamONellaAcademy)
 - TomScott: [YouTube](https://www.youtube.com/@TomScottGo)
 
 
 ## Independent Journalism:
 - g0at: [YouTube](https://www.youtube.com/@g0atmoth)
-- Johnny Harris: [YouTube](https://www.youtube.com/@johnnyharris) (Warning: Potentially Sensationalist or Biased)
+- Johnny Harris: [YouTube](https://www.youtube.com/@johnnyharris) | Warning: Potentially Sensationalist or Biased.
 
 ## 3D Printing:
 - Teaching Tech [YouTube](https://www.youtube.com/@TeachingTech)
 - Tom Stanton [YouTube](https://www.youtube.com/@TomStantonEngineering)
-- @TurboSunShine: [YouTube](https://www.youtube.com/@TurboSunShine) Self-Reproductive 3D printer
+- @TurboSunShine: [YouTube](https://www.youtube.com/@TurboSunShine) | Notable traits: Self-Reproducting 3D printer.
 - Makers Muse: [YouTube](https://www.youtube.com/@MakersMuse)
 - CNC Kitchen: [YouTube](https://www.youtube.com/@CNCKitchen)
 - Keep Making: [Before 'Maker Tales']: [YouTube](https://www.youtube.com/@Keep-Making)
@@ -75,8 +77,8 @@ Follow your favorite creators without fear of them getting censored: [Download G
 
 ## DIY Entertainment:
 - Plasma Channel: [YouTube](https://www.youtube.com/@PlasmaChannel)
-- RC Test Flight: [YouTube](https://www.youtube.com/@rctestflight) [Fast-Snowcat](https://www.youtube.com/watch?v=W5nBqzW9lXY)
-- Excessive Overkill: [YouTube](https://www.youtube.com/@ExcessiveOverkill) (Industrial robot controller)
+- RC Test Flight: [YouTube](https://www.youtube.com/@rctestflight) | Notable traits: [Fast-Snowcat](https://www.youtube.com/watch?v=W5nBqzW9lXY).
+- Excessive Overkill: [YouTube](https://www.youtube.com/@ExcessiveOverkill) | Notable traits: Industrial robot controller.
 - Xyla Foxlin: [YouTube](https://www.youtube.com/@xylafoxlin)
 
 ## DIY Electronics:
@@ -101,19 +103,19 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - Greg Johnston: [YouTube](https://www.youtube.com/@gbjxc)
 
 ## Game Dev:
-- John Lin - @johnlin9665: [YouTube](https://www.youtube.com/@johnlin9665) Really Cool Voxel Engine
+- John Lin - @johnlin9665: [YouTube](https://www.youtube.com/@johnlin9665) | Notable traits: Really Cool Voxel Engine.
 - Visionary 3D: [YouTube](https://www.youtube.com/@3dvisionary)
-- Game Makers Toolkit: [YouTube](https://www.youtube.com/@GMTK) (Tutorials are/were based in Unity)
-- Visionary 3D - @3dvisionary: [YouTube](https://www.youtube.com/@3dvisionary) Ray-Marching Engine
+- Game Makers Toolkit: [YouTube](https://www.youtube.com/@GMTK) | Warning: Tutorials are/were based in Unity)
+- Visionary 3D - @3dvisionary: [YouTube](https://www.youtube.com/@3dvisionary) | Notable traits: Ray-Marching Engine.
 - @vojtechproschl: [YouTube](https://youtube.com/@vojtechproschl)
 
 ## Linux:
 - DorianDotSlash: [YouTube](https://www.youtube.com/@Doriandotslash)
 
 ## History:
-- Lindybeige: [YouTube](https://www.youtube.com/@lindybeige) | (Awesome high quality)
-- Townsends: [YouTube](https://www.youtube.com/@townsends) | (Mostly historical food)
-- Modern History TV: [YouTube](https://www.youtube.com/@ModernKnight) | (Awesome high quality) (Not actually a TV channel, it's an independent creator)
+- Lindybeige: [YouTube](https://www.youtube.com/@lindybeige) | Notable traits: Awesome high quality.
+- Townsends: [YouTube](https://www.youtube.com/@townsends) | Notable traits: Mostly historical food.
+- Modern History TV: [YouTube](https://www.youtube.com/@ModernKnight) | | Notable traits: Awesome high quality. | Note: Not actually a TV channel, it's an independent creator.
 
 ## Entertainment Generic:
 
@@ -124,7 +126,7 @@ Follow your favorite creators without fear of them getting censored: [Download G
 
 
 Warning:
-- Kurzgesagt(Directly funded by BillGates association, high potential of biased content towards a certain mindset, channel has been accused of not disclosing this funding in the past before recieving critizism about it)
+- Kurzgesagt: Directly funded by BillGates association, high potential of biased content towards a certain mindset, channel has been accused of not disclosing this funding in the past before recieving critizism about it.
 
 AVOID:
 - [Avoid any "React" channel]
