@@ -1,12 +1,10 @@
 # Awesome Creators
 A list of Content Creators mainly focused on Education. Most of these being independent and of high quality.
 
-WARNING: This is a personal list so far, i made it so i could keep track of the people i watch and have it readily available to remember or when i want to share it to my friends, then i made this GitHUb repo. This is inspired by other repositories about other things that are kind of the same format.
+WARNING: This is a personal list so far, i made it so i could keep track of the people i watch and have it readily available to remember or when i want to share it to my friends, then i made this GitHub repo. This is inspired by other repositories about other things that are kind of the same format.
 Contributions are highly appreciated, english only please.
 
 Follow your favorite creators without fear of them getting censored: [Download GrayJay!](https://grayjay.app/)
-
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Independent Educational Skill Developing:
 - Cody's Lab: [YouTube](https://www.youtube.com/@theCodyReeder)
