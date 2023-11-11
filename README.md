@@ -100,6 +100,15 @@ Follow your favorite creators without fear of them getting censored: [Download G
 ## Coding:
 - Greg Johnston: [YouTube](https://www.youtube.com/@gbjxc)
 
+## Racing
+### Cars
+- KYLE.ENGINEERS: [YouTube](https://www.youtube.com/KyleEngineers) | Notable traits: Comprehensive Aerodynamics Analysis
+- SuperfastMatt: [YouTube](https://www.youtube.com/@SuperfastMatt) | Notable traits: Automotive Engineer making and modyfying his own vehicles.
+- The Car Care Nut: [YouTube](https://www.youtube.com/@TheCarCareNut) | Notable traits: Knowledgeable People's Mechanic
+
+### FPV Drones
+- 
+
 ## Game Dev:
 - John Lin - @johnlin9665: [YouTube](https://www.youtube.com/@johnlin9665) | Notable traits: Really Cool Voxel Engine.
 - Visionary 3D: [YouTube](https://www.youtube.com/@3dvisionary)
@@ -117,7 +126,7 @@ Follow your favorite creators without fear of them getting censored: [Download G
 
 ## Entertainment Generic:
 
-### For Categorize:
+### To Categorize:
 - Grim Granite: [YouTube](https://www.youtube.com/@grimgranite)
 - Dave's Garage: [YouTube](https://www.youtube.com/@DavesGarage)
 - Lato's Law: [YouTube](https://www.youtube.com/@stevelehto)
