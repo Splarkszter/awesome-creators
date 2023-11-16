@@ -21,6 +21,8 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - Louis Rossman: [YouTube](https://www.youtube.com/@rossmanngroup)
 - ScottManley: [Youtube](https://www.youtube.com/@scottmanley)
 - The Science Asylum: [YouTube](https://www.youtube.com/@ScienceAsylum)
+- Branch Education: [YouTube](https://www.youtube.com/@BranchEducation) | Notable traits: Incredibly high-quality deep dives in science, engineering and technology.
+
 - SmarterEveryDay: [YouTube](https://www.youtube.com/@smartereveryday)
 - BeSmart: [YouTube](https://www.youtube.com/@besmart)
 - PhysicsGirl: [YouTube](https://www.youtube.com/@physicsgirl)
