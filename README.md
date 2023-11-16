@@ -12,6 +12,7 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - NightHawkInLight: [YouTube](https://www.youtube.com/@Nighthawkinlight)
 - The Thought Emporium: [YouTube](https://www.youtube.com/@thethoughtemporium)
 - Tech Ingredients: [YouTube](https://www.youtube.com/@TechIngredients)
+- Breaking Taps: [YouTube](https://www.youtube.com/@BreakingTaps)
 - ProjectsInFlight: [YouTube](https://youtube.com/@projectsinflight) | Notable traits: DIY Photolithography.
 - Lock Picking Lawyer: [YouTube](https://www.youtube.com/@lockpickinglawyer)
 - PrimitiveTechnology: [YouTube](https://www.youtube.com/@primitivetechnology9550)
@@ -33,7 +34,6 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - 3Blue1Brown: [YouTube](https://www.youtube.com/@3blue1brown)
 -  Three Twentysix: [YouTube](https://www.youtube.com/@ThreeTwentysix) | Notable Traits: Deep Chemistry explanations, quantum mechanics and such.
 
-
 ## Educational Entertainment:
 - ElectroBOOM: [YouTube](https://www.youtube.com/@ElectroBOOM)
 - Technology Connections: [YouTube](https://www.youtube.com/@TechnologyConnections)
@@ -50,6 +50,8 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - Sam O'Nella Academy: [YouTube](https://www.youtube.com/@SamONellaAcademy)
 - TomScott: [YouTube](https://www.youtube.com/@TomScottGo)
 
+## Materials Science/Machining:
+- Inheritance Machining: [YouTube](https://www.youtube.com/@InheritanceMachining)
 
 ## Independent Journalism:
 - g0at: [YouTube](https://www.youtube.com/@g0atmoth)
@@ -84,10 +86,6 @@ Follow your favorite creators without fear of them getting censored: [Download G
 ## DIY Electronics:
 - Hyperspace Pirate: [YouTube](https://www.youtube.com/@HyperspacePirate)
 - Carl Bugeja: [YouTube](https://youtube.com/@CarlBugeja)
-
-## Materials Science/Machining:
-- Breaking Taps: [YouTube](https://www.youtube.com/@BreakingTaps)
-- Inheritance Machining: [YouTube](https://www.youtube.com/@InheritanceMachining)
 
 ## ComputerTech:
 - Level1Tech: [YouTube](https://www.youtube.com/@Level1Techs)
