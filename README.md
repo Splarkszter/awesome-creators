@@ -31,6 +31,8 @@ Follow your favorite creators without fear of them getting censored: [Download G
 - Captain Disillusion: [YouTube](https://www.youtube.com/@CaptainDisillusion)
 - EveryDayAstronaut: [YouTube](https://www.youtube.com/@EverydayAstronaut)
 - 3Blue1Brown: [YouTube](https://www.youtube.com/@3blue1brown)
+-  Three Twentysix: [YouTube](https://www.youtube.com/@ThreeTwentysix) | Notable Traits: Deep Chemistry explanations, quantum mechanics and such.
+
 
 ## Educational Entertainment:
 - ElectroBOOM: [YouTube](https://www.youtube.com/@ElectroBOOM)
